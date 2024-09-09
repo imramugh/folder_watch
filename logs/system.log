@@ -526,3 +526,374 @@
 2024-09-08 22:31:19,402 - system_logger - INFO - Database viewer UI started
 2024-09-08 22:31:24,686 - system_logger - INFO - Database viewer UI started
 2024-09-08 22:31:29,985 - system_logger - INFO - Database viewer UI started
+2024-09-08 22:35:13,435 - system_logger - INFO - Database viewer UI stopped
+2024-09-08 22:35:13,505 - system_logger - INFO - Database viewer UI stopped
+2024-09-08 22:35:16,139 - system_logger - INFO - Folder monitoring stopped
+2024-09-09 07:23:02,218 - system_logger - INFO - Folder monitoring started
+2024-09-09 07:23:19,399 - system_logger - INFO - Database viewer UI started
+2024-09-09 07:23:19,576 - system_logger - INFO - Database viewer UI started
+2024-09-09 07:25:09,525 - system_logger - INFO - Database viewer UI started
+2024-09-09 07:25:13,806 - system_logger - INFO - Database viewer UI started
+2024-09-09 07:25:48,262 - system_logger - INFO - Database viewer UI started
+2024-09-09 07:25:51,519 - system_logger - INFO - Database viewer UI started
+2024-09-09 07:25:58,372 - embed_service - INFO - Starting embedding service...
+2024-09-09 07:25:58,373 - embed_service - INFO - Embedding service started.
+2024-09-09 07:29:59,245 - system_logger - INFO - Database viewer UI started
+2024-09-09 07:30:04,532 - system_logger - INFO - Database viewer UI started
+2024-09-09 07:30:58,597 - embed_service - INFO - Checking for files to embed...
+2024-09-09 07:30:58,735 - embed_service - INFO - Embedding file: CM - FAQ.pdf
+2024-09-09 07:31:00,149 - embed_service - INFO - File embedded successfully: CM - FAQ.pdf
+2024-09-09 07:31:00,150 - embed_service - INFO - Embedding file: IPM Component Matrix.pdf
+2024-09-09 07:31:00,567 - embed_service - INFO - File embedded successfully: IPM Component Matrix.pdf
+2024-09-09 07:31:00,567 - embed_service - INFO - Embedding file: IPM FAQ.pdf
+2024-09-09 07:31:01,050 - embed_service - INFO - File embedded successfully: IPM FAQ.pdf
+2024-09-09 07:31:01,050 - embed_service - INFO - Embedding file: OM FAQ.pdf
+2024-09-09 07:31:01,495 - embed_service - INFO - File embedded successfully: OM FAQ.pdf
+2024-09-09 07:31:01,496 - embed_service - INFO - Embedding file: Special Module List Internal.pdf
+2024-09-09 07:31:02,303 - embed_service - INFO - File embedded successfully: Special Module List Internal.pdf
+2024-09-09 07:31:02,303 - embed_service - INFO - Embedding file: CM Component Matrix.pdf
+2024-09-09 07:31:03,131 - embed_service - INFO - File embedded successfully: CM Component Matrix.pdf
+2024-09-09 07:31:03,131 - embed_service - INFO - Embedding file: Special Module Guide Client Version.pdf
+2024-09-09 07:31:04,898 - embed_service - INFO - File embedded successfully: Special Module Guide Client Version.pdf
+2024-09-09 07:31:04,898 - embed_service - INFO - Embedding file: CUSIP Rollovers.pdf
+2024-09-09 07:31:05,827 - embed_service - INFO - File embedded successfully: CUSIP Rollovers.pdf
+2024-09-09 07:31:05,827 - embed_service - INFO - Embedding file: OM Component Matrix.pdf
+2024-09-09 07:31:06,563 - embed_service - INFO - File embedded successfully: OM Component Matrix.pdf
+2024-09-09 07:31:06,563 - embed_service - INFO - Embedding file: dCCM Single Sign-On for External Users.pdf
+2024-09-09 07:31:07,060 - embed_service - INFO - File embedded successfully: dCCM Single Sign-On for External Users.pdf
+2024-09-09 07:31:07,060 - embed_service - INFO - Embedding file: Fund Merger.pdf
+2024-09-09 07:31:08,427 - embed_service - INFO - File embedded successfully: Fund Merger.pdf
+2024-09-09 07:31:08,428 - embed_service - INFO - Embedding file: dCCM User Manual for External Users (EDG).pdf
+2024-09-09 07:31:09,527 - embed_service - INFO - File embedded successfully: dCCM User Manual for External Users (EDG).pdf
+2024-09-09 07:31:09,527 - embed_service - INFO - Embedding file: Quebec Life Income Funds.pdf
+2024-09-09 07:31:10,936 - embed_service - INFO - File embedded successfully: Quebec Life Income Funds.pdf
+2024-09-09 07:31:10,936 - embed_service - INFO - Embedding file: IPM Import User Guide.pdf
+2024-09-09 07:31:12,519 - embed_service - INFO - File embedded successfully: IPM Import User Guide.pdf
+2024-09-09 07:31:12,520 - embed_service - INFO - Embedding file: Return of Capital.pdf
+2024-09-09 07:31:13,668 - embed_service - INFO - File embedded successfully: Return of Capital.pdf
+2024-09-09 07:31:13,668 - embed_service - INFO - Embedding file: dCCM Admin Guide for Maintaining External User IDs - Internal v1.3.pdf
+2024-09-09 07:31:14,225 - embed_service - INFO - File embedded successfully: dCCM Admin Guide for Maintaining External User IDs - Internal v1.3.pdf
+2024-09-09 07:31:14,225 - embed_service - INFO - Embedding file: dCCM Admin Guide for Maintaining External User IDs - MLN.pdf
+2024-09-09 07:31:14,967 - embed_service - INFO - File embedded successfully: dCCM Admin Guide for Maintaining External User IDs - MLN.pdf
+2024-09-09 07:31:14,968 - embed_service - INFO - Embedding file: SSO Unitrax Help.pdf
+2024-09-09 07:31:17,326 - embed_service - INFO - File embedded successfully: SSO Unitrax Help.pdf
+2024-09-09 07:31:17,327 - embed_service - INFO - Embedding file: Bulk Data Load Guide.pdf
+2024-09-09 07:31:23,986 - embed_service - INFO - File embedded successfully: Bulk Data Load Guide.pdf
+2024-09-09 07:31:23,986 - embed_service - INFO - Embedding file: Statements and Confirmations.pdf
+2024-09-09 07:31:27,842 - embed_service - INFO - File embedded successfully: Statements and Confirmations.pdf
+2024-09-09 07:31:27,842 - embed_service - INFO - Embedding file: Statement Confirmation Extract File Catalogue.pdf
+2024-09-09 07:31:35,497 - embed_service - INFO - File embedded successfully: Statement Confirmation Extract File Catalogue.pdf
+2024-09-09 07:31:35,497 - embed_service - INFO - Embedding file: Linked Notes Guide.pdf
+2024-09-09 07:31:38,414 - embed_service - INFO - File embedded successfully: Linked Notes Guide.pdf
+2024-09-09 07:31:38,414 - embed_service - INFO - Embedding file: Statement Confirmation Extract File Catalogue - Internal.pdf
+2024-09-09 07:31:40,276 - system_logger - INFO - Database viewer UI started
+2024-09-09 07:31:44,519 - system_logger - INFO - Database viewer UI started
+2024-09-09 07:31:47,242 - embed_service - INFO - File embedded successfully: Statement Confirmation Extract File Catalogue - Internal.pdf
+2024-09-09 07:31:47,242 - embed_service - INFO - Embedding file: dCCM Manual - BMO.pdf
+2024-09-09 07:31:49,184 - embed_service - INFO - File embedded successfully: dCCM Manual - BMO.pdf
+2024-09-09 07:31:49,184 - embed_service - INFO - Embedding file: Remote User.pdf
+2024-09-09 07:31:53,177 - embed_service - INFO - File embedded successfully: Remote User.pdf
+2024-09-09 07:31:53,177 - embed_service - INFO - Embedding file: FATCA Guide.pdf
+2024-09-09 07:31:58,540 - embed_service - INFO - File embedded successfully: FATCA Guide.pdf
+2024-09-09 07:31:58,541 - embed_service - INFO - Embedding file: Asset Allocation.pdf
+2024-09-09 07:32:01,433 - embed_service - INFO - File embedded successfully: Asset Allocation.pdf
+2024-09-09 07:32:01,433 - embed_service - INFO - Embedding file: Fundserv Guide.pdf
+2024-09-09 07:32:14,512 - embed_service - INFO - File embedded successfully: Fundserv Guide.pdf
+2024-09-09 07:32:14,512 - embed_service - INFO - Embedding file: dCCM Manual.pdf
+2024-09-09 07:32:17,272 - embed_service - INFO - File embedded successfully: dCCM Manual.pdf
+2024-09-09 07:32:17,272 - embed_service - INFO - Embedding file: Labour Sponsored Funds.pdf
+2024-09-09 07:32:21,466 - embed_service - INFO - File embedded successfully: Labour Sponsored Funds.pdf
+2024-09-09 07:32:21,466 - embed_service - INFO - Embedding file: RDSP Guide.pdf
+2024-09-09 07:32:30,113 - embed_service - INFO - File embedded successfully: RDSP Guide.pdf
+2024-09-09 07:32:30,113 - embed_service - INFO - Embedding file: Investment Product User Guide 21.6.pdf
+2024-09-09 07:32:33,796 - embed_service - INFO - File embedded successfully: Investment Product User Guide 21.6.pdf
+2024-09-09 07:32:33,796 - embed_service - INFO - Embedding file: Order Management User Guide 24.3.pdf
+2024-09-09 07:32:39,384 - embed_service - INFO - File embedded successfully: Order Management User Guide 24.3.pdf
+2024-09-09 07:32:39,384 - embed_service - INFO - Embedding file: Fees Guide.pdf
+2024-09-09 07:32:51,778 - embed_service - ERROR - Error embedding file Fees Guide.pdf: attempt to write a readonly database
+2024-09-09 07:32:51,786 - embed_service - INFO - Embedding file: RESP Guide.pdf
+2024-09-09 07:33:06,496 - embed_service - ERROR - Error embedding file RESP Guide.pdf: attempt to write a readonly database
+2024-09-09 07:33:06,504 - embed_service - INFO - Embedding file: Environment Management User Guide.pdf
+2024-09-09 07:33:12,052 - embed_service - INFO - Starting embedding service...
+2024-09-09 07:33:12,053 - embed_service - INFO - Embedding service started.
+2024-09-09 07:35:12,831 - system_logger - INFO - Database viewer UI started
+2024-09-09 07:35:16,088 - system_logger - INFO - Database viewer UI started
+2024-09-09 07:35:37,823 - embed_service - INFO - Starting embedding service...
+2024-09-09 07:35:37,823 - embed_service - INFO - Embedding service started. Running every 1 minute.
+2024-09-09 07:36:38,078 - embed_service - INFO - Checking for files to embed...
+2024-09-09 07:36:38,096 - embed_service - INFO - Embedding file: Fees Guide.pdf
+2024-09-09 07:36:50,443 - embed_service - INFO - File embedded successfully: Fees Guide.pdf
+2024-09-09 07:36:50,444 - embed_service - INFO - Embedding file: RESP Guide.pdf
+2024-09-09 07:37:04,885 - embed_service - INFO - File embedded successfully: RESP Guide.pdf
+2024-09-09 07:37:04,886 - embed_service - INFO - Embedding file: Environment Management User Guide.pdf
+2024-09-09 07:37:21,452 - embed_service - INFO - File embedded successfully: Environment Management User Guide.pdf
+2024-09-09 07:37:21,452 - embed_service - INFO - Embedding file: Senior Systems Operations Guide.pdf
+2024-09-09 07:37:38,171 - embed_service - INFO - File embedded successfully: Senior Systems Operations Guide.pdf
+2024-09-09 07:37:38,171 - embed_service - INFO - Embedding file: User Reference Guide.pdf
+2024-09-09 07:37:58,698 - embed_service - INFO - File embedded successfully: User Reference Guide.pdf
+2024-09-09 07:37:58,699 - embed_service - INFO - Embedding file: Guide to Year End and Tax Reporting.pdf
+2024-09-09 07:38:25,035 - embed_service - INFO - File embedded successfully: Guide to Year End and Tax Reporting.pdf
+2024-09-09 07:38:25,036 - embed_service - INFO - Embedding file: Client Management User Guide 24.3.pdf
+2024-09-09 07:38:37,309 - embed_service - INFO - File embedded successfully: Client Management User Guide 24.3.pdf
+2024-09-09 07:38:37,309 - embed_service - INFO - Embedding file: Segregated Funds Guide.pdf
+2024-09-09 07:39:16,155 - embed_service - INFO - File embedded successfully: Segregated Funds Guide.pdf
+2024-09-09 07:39:16,155 - embed_service - INFO - Embedding file: Unitrax Help 24.4.pdf
+2024-09-09 07:41:30,147 - embed_service - INFO - File embedded successfully: Unitrax Help 24.4.pdf
+2024-09-09 07:41:30,148 - embed_service - INFO - Embedding process completed.
+2024-09-09 07:42:30,393 - embed_service - INFO - Checking for files to embed...
+2024-09-09 07:42:30,399 - embed_service - INFO - Embedding process completed.
+2024-09-09 07:43:30,638 - embed_service - INFO - Checking for files to embed...
+2024-09-09 07:43:30,644 - embed_service - INFO - Embedding process completed.
+2024-09-09 07:44:30,979 - embed_service - INFO - Checking for files to embed...
+2024-09-09 07:44:30,986 - embed_service - INFO - Embedding process completed.
+2024-09-09 07:45:31,424 - embed_service - INFO - Checking for files to embed...
+2024-09-09 07:45:31,431 - embed_service - INFO - Embedding process completed.
+2024-09-09 07:46:31,888 - embed_service - INFO - Checking for files to embed...
+2024-09-09 07:46:31,895 - embed_service - INFO - Embedding process completed.
+2024-09-09 07:47:32,372 - embed_service - INFO - Checking for files to embed...
+2024-09-09 07:47:32,379 - embed_service - INFO - Embedding process completed.
+2024-09-09 07:48:32,875 - embed_service - INFO - Checking for files to embed...
+2024-09-09 07:48:32,881 - embed_service - INFO - Embedding process completed.
+2024-09-09 07:49:33,012 - embed_service - INFO - Checking for files to embed...
+2024-09-09 07:49:33,018 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:03:49,701 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:03:49,704 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:04:49,912 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:04:49,922 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:05:50,127 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:05:50,132 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:06:50,350 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:06:50,357 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:07:50,573 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:07:50,580 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:08:50,783 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:08:50,788 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:09:51,032 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:09:51,041 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:10:51,241 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:10:51,247 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:11:51,502 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:11:51,508 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:12:51,723 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:12:51,731 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:13:52,010 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:13:52,015 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:14:02,161 - system_logger - INFO - Folder monitoring stopped
+2024-09-09 08:14:02,312 - system_logger - INFO - Database viewer UI started
+2024-09-09 08:14:05,578 - system_logger - INFO - Database viewer UI started
+2024-09-09 08:14:06,756 - system_logger - INFO - Database viewer UI stopped
+2024-09-09 08:14:06,830 - system_logger - INFO - Database viewer UI stopped
+2024-09-09 08:17:25,573 - clear_data - INFO - Starting data clearing process...
+2024-09-09 08:17:25,573 - clear_data - INFO - Deleted file: /Users/imran/Documents/Projects/folder_watch/database/folder_watch.db
+2024-09-09 08:17:25,574 - clear_data - INFO - Deleted file: /Users/imran/Documents/Projects/folder_watch/database/chroma.sqlite3
+2024-09-09 08:17:25,574 - clear_data - INFO - Database folder cleared.
+2024-09-09 08:17:25,574 - clear_data - INFO - Recreating SQL database...
+2024-09-09 08:17:25,578 - clear_data - INFO - SQL database recreated.
+2024-09-09 08:17:25,578 - clear_data - INFO - Recreating vector database...
+2024-09-09 08:17:25,677 - clear_data - INFO - Vector database recreated.
+2024-09-09 08:17:25,678 - clear_data - INFO - Data clearing and recreation process completed.
+2024-09-09 08:17:53,701 - system_logger - INFO - Folder monitoring started
+2024-09-09 08:17:53,703 - system_logger - INFO - Added missing file to database: Investment Product User Guide 21.6.pdf
+2024-09-09 08:17:53,703 - system_logger - INFO - Added missing file to database: RESP Guide.pdf
+2024-09-09 08:17:53,703 - system_logger - INFO - Added missing file to database: Special Module List Internal.pdf
+2024-09-09 08:17:53,703 - system_logger - INFO - Added missing file to database: Environment Management User Guide.pdf
+2024-09-09 08:17:53,703 - system_logger - INFO - Added missing file to database: Asset Allocation.pdf
+2024-09-09 08:17:53,703 - system_logger - INFO - Added missing file to database: CM - FAQ.pdf
+2024-09-09 08:17:53,703 - system_logger - INFO - Added missing file to database: Segregated Funds Guide.pdf
+2024-09-09 08:17:53,703 - system_logger - INFO - Added missing file to database: Statement Confirmation Extract File Catalogue.pdf
+2024-09-09 08:17:53,703 - system_logger - INFO - Added missing file to database: Order Management User Guide 24.3.pdf
+2024-09-09 08:17:53,703 - system_logger - INFO - Added missing file to database: OM Component Matrix.pdf
+2024-09-09 08:17:53,703 - system_logger - INFO - Added missing file to database: CUSIP Rollovers.pdf
+2024-09-09 08:17:53,704 - system_logger - INFO - Added missing file to database: Bulk Data Load Guide.pdf
+2024-09-09 08:17:53,704 - system_logger - INFO - Added missing file to database: Guide to Year End and Tax Reporting.pdf
+2024-09-09 08:17:53,704 - system_logger - INFO - Added missing file to database: Unitrax Help 24.4.pdf
+2024-09-09 08:17:53,704 - system_logger - INFO - Added missing file to database: SSO Unitrax Help.pdf
+2024-09-09 08:17:53,704 - system_logger - INFO - Added missing file to database: dCCM Admin Guide for Maintaining External User IDs - MLN.pdf
+2024-09-09 08:17:53,704 - system_logger - INFO - Added missing file to database: CM Component Matrix.pdf
+2024-09-09 08:17:53,704 - system_logger - INFO - Added missing file to database: Labour Sponsored Funds.pdf
+2024-09-09 08:17:53,704 - system_logger - INFO - Added missing file to database: dCCM Manual.pdf
+2024-09-09 08:17:53,704 - system_logger - INFO - Added missing file to database: Fund Merger.pdf
+2024-09-09 08:17:53,704 - system_logger - INFO - Added missing file to database: Fundserv Guide.pdf
+2024-09-09 08:17:53,704 - system_logger - INFO - Added missing file to database: Special Module Guide Client Version.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: dCCM User Manual for External Users (EDG).pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: OM FAQ.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: dCCM Manual - BMO.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: Remote User.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: User Reference Guide.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: Fees Guide.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: FATCA Guide.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: IPM Import User Guide.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: Statements and Confirmations.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: IPM FAQ.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: RDSP Guide.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: Linked Notes Guide.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: Quebec Life Income Funds.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: dCCM Admin Guide for Maintaining External User IDs - Internal v1.3.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: dCCM Single Sign-On for External Users.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: Senior Systems Operations Guide.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: IPM Component Matrix.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: Client Management User Guide 24.3.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: Return of Capital.pdf
+2024-09-09 08:17:53,705 - system_logger - INFO - Added missing file to database: Statement Confirmation Extract File Catalogue - Internal.pdf
+2024-09-09 08:18:02,897 - system_logger - INFO - Folder monitoring stopped
+2024-09-09 08:18:08,944 - system_logger - INFO - Folder monitoring started
+2024-09-09 08:20:02,653 - system_logger - INFO - Database viewer UI started
+2024-09-09 08:20:02,829 - system_logger - INFO - Database viewer UI started
+2024-09-09 08:23:09,328 - embed_service - INFO - Starting embedding service...
+2024-09-09 08:23:09,328 - embed_service - INFO - Embedding service started. Running every 1 minute.
+2024-09-09 08:24:09,582 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:24:09,606 - embed_service - INFO - Embedding file: Investment Product User Guide 21.6.pdf
+2024-09-09 08:24:13,990 - embed_service - INFO - File embedded successfully: Investment Product User Guide 21.6.pdf
+2024-09-09 08:24:13,990 - embed_service - INFO - Embedding file: RESP Guide.pdf
+2024-09-09 08:24:28,172 - embed_service - INFO - File embedded successfully: RESP Guide.pdf
+2024-09-09 08:24:28,172 - embed_service - INFO - Embedding file: Special Module List Internal.pdf
+2024-09-09 08:24:29,053 - embed_service - INFO - File embedded successfully: Special Module List Internal.pdf
+2024-09-09 08:24:29,053 - embed_service - INFO - Embedding file: Environment Management User Guide.pdf
+2024-09-09 08:24:44,956 - embed_service - INFO - File embedded successfully: Environment Management User Guide.pdf
+2024-09-09 08:24:44,956 - embed_service - INFO - Embedding file: Asset Allocation.pdf
+2024-09-09 08:24:47,841 - embed_service - INFO - File embedded successfully: Asset Allocation.pdf
+2024-09-09 08:24:47,841 - embed_service - INFO - Embedding file: CM - FAQ.pdf
+2024-09-09 08:24:48,178 - embed_service - INFO - File embedded successfully: CM - FAQ.pdf
+2024-09-09 08:24:48,178 - embed_service - INFO - Embedding file: Segregated Funds Guide.pdf
+2024-09-09 08:25:22,922 - embed_service - INFO - File embedded successfully: Segregated Funds Guide.pdf
+2024-09-09 08:25:22,922 - embed_service - INFO - Embedding file: Statement Confirmation Extract File Catalogue.pdf
+2024-09-09 08:25:30,980 - embed_service - INFO - File embedded successfully: Statement Confirmation Extract File Catalogue.pdf
+2024-09-09 08:25:30,980 - embed_service - INFO - Embedding file: Order Management User Guide 24.3.pdf
+2024-09-09 08:25:36,092 - embed_service - INFO - File embedded successfully: Order Management User Guide 24.3.pdf
+2024-09-09 08:25:36,092 - embed_service - INFO - Embedding file: OM Component Matrix.pdf
+2024-09-09 08:25:36,789 - embed_service - INFO - File embedded successfully: OM Component Matrix.pdf
+2024-09-09 08:25:36,789 - embed_service - INFO - Embedding file: CUSIP Rollovers.pdf
+2024-09-09 08:25:37,984 - embed_service - INFO - File embedded successfully: CUSIP Rollovers.pdf
+2024-09-09 08:25:37,985 - embed_service - INFO - Embedding file: Bulk Data Load Guide.pdf
+2024-09-09 08:25:44,634 - embed_service - INFO - File embedded successfully: Bulk Data Load Guide.pdf
+2024-09-09 08:25:44,634 - embed_service - INFO - Embedding file: Guide to Year End and Tax Reporting.pdf
+2024-09-09 08:26:09,235 - embed_service - INFO - File embedded successfully: Guide to Year End and Tax Reporting.pdf
+2024-09-09 08:26:09,236 - embed_service - INFO - Embedding file: Unitrax Help 24.4.pdf
+2024-09-09 08:28:23,884 - embed_service - INFO - File embedded successfully: Unitrax Help 24.4.pdf
+2024-09-09 08:28:23,885 - embed_service - INFO - Embedding file: SSO Unitrax Help.pdf
+2024-09-09 08:28:26,374 - embed_service - INFO - File embedded successfully: SSO Unitrax Help.pdf
+2024-09-09 08:28:26,374 - embed_service - INFO - Embedding file: dCCM Admin Guide for Maintaining External User IDs - MLN.pdf
+2024-09-09 08:28:27,026 - embed_service - INFO - File embedded successfully: dCCM Admin Guide for Maintaining External User IDs - MLN.pdf
+2024-09-09 08:28:27,026 - embed_service - INFO - Embedding file: CM Component Matrix.pdf
+2024-09-09 08:28:27,856 - embed_service - INFO - File embedded successfully: CM Component Matrix.pdf
+2024-09-09 08:28:27,857 - embed_service - INFO - Embedding file: Labour Sponsored Funds.pdf
+2024-09-09 08:28:32,321 - embed_service - INFO - File embedded successfully: Labour Sponsored Funds.pdf
+2024-09-09 08:28:32,321 - embed_service - INFO - Embedding file: dCCM Manual.pdf
+2024-09-09 08:28:35,092 - embed_service - INFO - File embedded successfully: dCCM Manual.pdf
+2024-09-09 08:28:35,092 - embed_service - INFO - Embedding file: Fund Merger.pdf
+2024-09-09 08:28:36,298 - embed_service - INFO - File embedded successfully: Fund Merger.pdf
+2024-09-09 08:28:36,299 - embed_service - INFO - Embedding file: Fundserv Guide.pdf
+2024-09-09 08:28:50,451 - embed_service - INFO - File embedded successfully: Fundserv Guide.pdf
+2024-09-09 08:28:50,451 - embed_service - INFO - Embedding file: Special Module Guide Client Version.pdf
+2024-09-09 08:28:52,221 - embed_service - INFO - File embedded successfully: Special Module Guide Client Version.pdf
+2024-09-09 08:28:52,221 - embed_service - INFO - Embedding file: dCCM User Manual for External Users (EDG).pdf
+2024-09-09 08:28:52,831 - embed_service - INFO - File embedded successfully: dCCM User Manual for External Users (EDG).pdf
+2024-09-09 08:28:52,831 - embed_service - INFO - Embedding file: OM FAQ.pdf
+2024-09-09 08:28:53,138 - embed_service - INFO - File embedded successfully: OM FAQ.pdf
+2024-09-09 08:28:53,138 - embed_service - INFO - Embedding file: dCCM Manual - BMO.pdf
+2024-09-09 08:28:55,252 - embed_service - INFO - File embedded successfully: dCCM Manual - BMO.pdf
+2024-09-09 08:28:55,253 - embed_service - INFO - Embedding file: Remote User.pdf
+2024-09-09 08:28:59,477 - embed_service - INFO - File embedded successfully: Remote User.pdf
+2024-09-09 08:28:59,477 - embed_service - INFO - Embedding file: User Reference Guide.pdf
+2024-09-09 08:29:21,374 - embed_service - INFO - File embedded successfully: User Reference Guide.pdf
+2024-09-09 08:29:21,374 - embed_service - INFO - Embedding file: Fees Guide.pdf
+2024-09-09 08:29:35,148 - embed_service - INFO - File embedded successfully: Fees Guide.pdf
+2024-09-09 08:29:35,148 - embed_service - INFO - Embedding file: FATCA Guide.pdf
+2024-09-09 08:29:40,519 - embed_service - INFO - File embedded successfully: FATCA Guide.pdf
+2024-09-09 08:29:40,520 - embed_service - INFO - Embedding file: IPM Import User Guide.pdf
+2024-09-09 08:29:42,565 - embed_service - INFO - File embedded successfully: IPM Import User Guide.pdf
+2024-09-09 08:29:42,565 - embed_service - INFO - Embedding file: Statements and Confirmations.pdf
+2024-09-09 08:29:46,587 - embed_service - INFO - File embedded successfully: Statements and Confirmations.pdf
+2024-09-09 08:29:46,587 - embed_service - INFO - Embedding file: IPM FAQ.pdf
+2024-09-09 08:29:47,012 - embed_service - INFO - File embedded successfully: IPM FAQ.pdf
+2024-09-09 08:29:47,012 - embed_service - INFO - Embedding file: RDSP Guide.pdf
+2024-09-09 08:29:54,536 - embed_service - INFO - File embedded successfully: RDSP Guide.pdf
+2024-09-09 08:29:54,536 - embed_service - INFO - Embedding file: Linked Notes Guide.pdf
+2024-09-09 08:29:57,535 - embed_service - INFO - File embedded successfully: Linked Notes Guide.pdf
+2024-09-09 08:29:57,535 - embed_service - INFO - Embedding file: Quebec Life Income Funds.pdf
+2024-09-09 08:29:58,936 - embed_service - INFO - File embedded successfully: Quebec Life Income Funds.pdf
+2024-09-09 08:29:58,936 - embed_service - INFO - Embedding file: dCCM Admin Guide for Maintaining External User IDs - Internal v1.3.pdf
+2024-09-09 08:29:59,421 - embed_service - INFO - File embedded successfully: dCCM Admin Guide for Maintaining External User IDs - Internal v1.3.pdf
+2024-09-09 08:29:59,422 - embed_service - INFO - Embedding file: dCCM Single Sign-On for External Users.pdf
+2024-09-09 08:29:59,940 - embed_service - INFO - File embedded successfully: dCCM Single Sign-On for External Users.pdf
+2024-09-09 08:29:59,940 - embed_service - INFO - Embedding file: Senior Systems Operations Guide.pdf
+2024-09-09 08:30:17,922 - embed_service - INFO - File embedded successfully: Senior Systems Operations Guide.pdf
+2024-09-09 08:30:17,922 - embed_service - INFO - Embedding file: IPM Component Matrix.pdf
+2024-09-09 08:30:18,336 - embed_service - INFO - File embedded successfully: IPM Component Matrix.pdf
+2024-09-09 08:30:18,336 - embed_service - INFO - Embedding file: Client Management User Guide 24.3.pdf
+2024-09-09 08:30:31,140 - embed_service - INFO - File embedded successfully: Client Management User Guide 24.3.pdf
+2024-09-09 08:30:31,140 - embed_service - INFO - Embedding file: Return of Capital.pdf
+2024-09-09 08:30:32,371 - embed_service - INFO - File embedded successfully: Return of Capital.pdf
+2024-09-09 08:30:32,371 - embed_service - INFO - Embedding file: Statement Confirmation Extract File Catalogue - Internal.pdf
+2024-09-09 08:30:40,578 - embed_service - INFO - File embedded successfully: Statement Confirmation Extract File Catalogue - Internal.pdf
+2024-09-09 08:30:40,578 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:31:40,801 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:31:40,807 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:32:41,018 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:32:41,024 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:33:41,258 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:33:41,264 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:34:41,495 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:34:41,500 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:35:41,756 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:35:41,768 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:36:42,013 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:36:42,021 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:37:42,297 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:37:42,304 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:38:42,540 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:38:42,546 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:39:42,776 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:39:42,783 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:40:42,970 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:40:42,978 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:41:43,219 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:41:43,227 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:42:43,459 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:42:43,468 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:43:43,703 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:43:43,710 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:44:43,945 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:44:43,951 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:45:44,161 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:45:44,167 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:46:44,388 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:46:44,394 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:47:44,642 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:47:44,648 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:48:44,890 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:48:44,899 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:49:45,107 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:49:45,113 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:50:45,357 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:50:45,364 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:51:45,607 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:51:45,615 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:52:45,847 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:52:45,849 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:53:46,081 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:53:46,086 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:54:46,339 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:54:46,345 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:55:46,602 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:55:46,608 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:56:46,822 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:56:46,829 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:57:47,057 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:57:47,062 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:58:47,304 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:58:47,311 - embed_service - INFO - Embedding process completed.
+2024-09-09 08:59:47,560 - embed_service - INFO - Checking for files to embed...
+2024-09-09 08:59:47,565 - embed_service - INFO - Embedding process completed.
+2024-09-09 09:00:27,840 - system_logger - INFO - Database viewer UI started
+2024-09-09 09:00:30,117 - system_logger - INFO - Database viewer UI started
+2024-09-09 09:00:39,404 - system_logger - INFO - Database viewer UI started
+2024-09-09 09:00:40,660 - system_logger - INFO - Database viewer UI started
+2024-09-09 09:00:47,788 - embed_service - INFO - Checking for files to embed...
+2024-09-09 09:00:47,795 - embed_service - INFO - Embedding process completed.
+2024-09-09 09:01:15,103 - system_logger - INFO - Database viewer UI started
+2024-09-09 09:01:18,360 - system_logger - INFO - Database viewer UI started
+2024-09-09 09:01:48,017 - embed_service - INFO - Checking for files to embed...
+2024-09-09 09:01:48,025 - embed_service - INFO - Embedding process completed.
+2024-09-09 09:02:48,261 - embed_service - INFO - Checking for files to embed...
+2024-09-09 09:02:48,267 - embed_service - INFO - Embedding process completed.

@@ -1,47 +1,6 @@
-documents/Asset Allocation.pdf
-documents/Bulk Data Load Guide.pdf
-documents/Client Management User Guide 24.3.pdf
-documents/CM - FAQ.pdf
-documents/CM Component Matrix.pdf
-documents/CUSIP Rollovers.pdf
-documents/dCCM Admin Guide for Maintaining External User IDs - Internal v1.3.pdf
-documents/dCCM Admin Guide for Maintaining External User IDs - MLN.pdf
-documents/dCCM Manual - BMO.pdf
-documents/dCCM Manual.pdf
-documents/dCCM Single Sign-On for External Users.pdf
-documents/dCCM User Manual for External Users (EDG).pdf
-documents/Environment Management User Guide.pdf
-documents/FATCA Guide.pdf
-documents/Fees Guide.pdf
-documents/Fund Merger.pdf
-documents/Fundserv Guide.pdf
-documents/Guide to Year End and Tax Reporting.pdf
-documents/Investment Product User Guide 21.6.pdf
-documents/IPM Component Matrix.pdf
-documents/IPM FAQ.pdf
-documents/IPM Import User Guide.pdf
-documents/Labour Sponsored Funds.pdf
-documents/Linked Notes Guide.pdf
-documents/OM Component Matrix.pdf
-documents/OM FAQ.pdf
-documents/Order Management User Guide 24.3.pdf
-documents/Quebec Life Income Funds.pdf
-documents/RDSP Guide.pdf
-documents/Remote User.pdf
-documents/RESP Guide.pdf
-documents/Return of Capital.pdf
-documents/Segregated Funds Guide.pdf
-documents/Senior Systems Operations Guide.pdf
-documents/Special Module Guide Client Version.pdf
-documents/Special Module List Internal.pdf
-documents/SSO Unitrax Help.pdf
-documents/Statement Confirmation Extract File Catalogue - Internal.pdf
-documents/Statement Confirmation Extract File Catalogue.pdf
-documents/Statements and Confirmations.pdf
-documents/Unitrax Help 24.4.pdf
-documents/User Reference Guide.pdf
-database/folder_watch.db
-database/folder_watch.db
-logs/system.log
-utils/__pycache__/logger.cpython-312.pyc
-utils/__pycache__/setup_db.cpython-312.pyc
+database/
+documents/
+logs/
+utils/config.py 
+utils/__pycache__/
+.DS_Store
