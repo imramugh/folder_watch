@@ -305,3 +305,224 @@
 2024-09-08 22:12:24,884 - system_logger - INFO - Database viewer UI stopped
 2024-09-08 22:12:24,958 - system_logger - INFO - Database viewer UI stopped
 2024-09-08 22:12:30,088 - system_logger - INFO - Folder monitoring stopped
+2024-09-08 22:27:05,184 - system_logger - INFO - Folder monitoring started
+2024-09-08 22:27:16,287 - system_logger - INFO - Database viewer UI started
+2024-09-08 22:27:16,466 - system_logger - INFO - Database viewer UI started
+2024-09-08 22:27:38,478 - system_logger - INFO - File added: CM - FAQ.pdf
+2024-09-08 22:27:38,482 - system_logger - INFO - File modified: CM - FAQ.pdf
+2024-09-08 22:27:38,484 - system_logger - INFO - File added: IPM Component Matrix.pdf
+2024-09-08 22:27:38,486 - system_logger - INFO - File modified: IPM Component Matrix.pdf
+2024-09-08 22:27:38,493 - system_logger - INFO - File added: IPM FAQ.pdf
+2024-09-08 22:27:38,495 - system_logger - INFO - File modified: IPM FAQ.pdf
+2024-09-08 22:27:38,504 - system_logger - INFO - File added: OM FAQ.pdf
+2024-09-08 22:27:38,506 - system_logger - INFO - File modified: OM FAQ.pdf
+2024-09-08 22:27:38,516 - system_logger - INFO - File added: Special Module List Internal.pdf
+2024-09-08 22:27:38,518 - system_logger - INFO - File modified: Special Module List Internal.pdf
+2024-09-08 22:27:38,528 - system_logger - INFO - File added: CM Component Matrix.pdf
+2024-09-08 22:27:38,529 - system_logger - INFO - File modified: CM Component Matrix.pdf
+2024-09-08 22:27:38,539 - system_logger - INFO - File added: Special Module Guide Client Version.pdf
+2024-09-08 22:27:38,541 - system_logger - INFO - File modified: Special Module Guide Client Version.pdf
+2024-09-08 22:27:38,542 - system_logger - INFO - File added: CUSIP Rollovers.pdf
+2024-09-08 22:27:38,548 - system_logger - INFO - File modified: CUSIP Rollovers.pdf
+2024-09-08 22:27:38,549 - system_logger - INFO - File added: OM Component Matrix.pdf
+2024-09-08 22:27:38,550 - system_logger - INFO - File modified: OM Component Matrix.pdf
+2024-09-08 22:27:38,561 - system_logger - INFO - File modified: OM Component Matrix.pdf
+2024-09-08 22:27:38,563 - system_logger - INFO - File added: dCCM Single Sign-On for External Users.pdf
+2024-09-08 22:27:38,564 - system_logger - INFO - File modified: dCCM Single Sign-On for External Users.pdf
+2024-09-08 22:27:38,566 - system_logger - INFO - File added: Fund Merger.pdf
+2024-09-08 22:27:38,568 - system_logger - INFO - File modified: Fund Merger.pdf
+2024-09-08 22:27:38,570 - system_logger - INFO - File modified: Fund Merger.pdf
+2024-09-08 22:27:38,570 - system_logger - INFO - File added: dCCM User Manual for External Users (EDG).pdf
+2024-09-08 22:27:38,571 - system_logger - INFO - File modified: dCCM User Manual for External Users (EDG).pdf
+2024-09-08 22:27:38,581 - system_logger - INFO - File modified: dCCM User Manual for External Users (EDG).pdf
+2024-09-08 22:27:38,592 - system_logger - INFO - File added: Quebec Life Income Funds.pdf
+2024-09-08 22:27:38,594 - system_logger - INFO - File modified: Quebec Life Income Funds.pdf
+2024-09-08 22:27:38,595 - system_logger - INFO - File added: IPM Import User Guide.pdf
+2024-09-08 22:27:38,597 - system_logger - INFO - File modified: IPM Import User Guide.pdf
+2024-09-08 22:27:38,602 - system_logger - INFO - File added: Return of Capital.pdf
+2024-09-08 22:27:38,604 - system_logger - INFO - File modified: Return of Capital.pdf
+2024-09-08 22:27:38,605 - system_logger - INFO - File added: dCCM Admin Guide for Maintaining External User IDs - Internal v1.3.pdf
+2024-09-08 22:27:38,606 - system_logger - INFO - File modified: dCCM Admin Guide for Maintaining External User IDs - Internal v1.3.pdf
+2024-09-08 22:27:38,611 - system_logger - INFO - File added: dCCM Admin Guide for Maintaining External User IDs - MLN.pdf
+2024-09-08 22:27:38,612 - system_logger - INFO - File modified: dCCM Admin Guide for Maintaining External User IDs - MLN.pdf
+2024-09-08 22:27:38,625 - system_logger - INFO - File added: SSO Unitrax Help.pdf
+2024-09-08 22:27:38,626 - system_logger - INFO - File modified: SSO Unitrax Help.pdf
+2024-09-08 22:27:38,627 - system_logger - INFO - File added: Bulk Data Load Guide.pdf
+2024-09-08 22:27:38,628 - system_logger - INFO - File modified: Bulk Data Load Guide.pdf
+2024-09-08 22:27:38,635 - system_logger - INFO - File added: Statements and Confirmations.pdf
+2024-09-08 22:27:38,648 - system_logger - INFO - File modified: Statements and Confirmations.pdf
+2024-09-08 22:27:38,658 - system_logger - INFO - File added: Statement Confirmation Extract File Catalogue.pdf
+2024-09-08 22:27:38,660 - system_logger - INFO - File modified: Statement Confirmation Extract File Catalogue.pdf
+2024-09-08 22:27:38,660 - system_logger - INFO - File added: Linked Notes Guide.pdf
+2024-09-08 22:27:38,661 - system_logger - INFO - File modified: Linked Notes Guide.pdf
+2024-09-08 22:27:38,665 - system_logger - INFO - File added: Statement Confirmation Extract File Catalogue - Internal.pdf
+2024-09-08 22:27:38,666 - system_logger - INFO - File modified: Statement Confirmation Extract File Catalogue - Internal.pdf
+2024-09-08 22:27:38,684 - system_logger - INFO - File added: dCCM Manual - BMO.pdf
+2024-09-08 22:27:38,684 - system_logger - INFO - File modified: dCCM Manual - BMO.pdf
+2024-09-08 22:27:38,690 - system_logger - INFO - File added: Remote User.pdf
+2024-09-08 22:27:38,690 - system_logger - INFO - File modified: Remote User.pdf
+2024-09-08 22:27:38,703 - system_logger - INFO - File added: FATCA Guide.pdf
+2024-09-08 22:27:38,704 - system_logger - INFO - File modified: FATCA Guide.pdf
+2024-09-08 22:27:38,704 - system_logger - INFO - File added: Asset Allocation.pdf
+2024-09-08 22:27:38,727 - system_logger - INFO - File modified: Asset Allocation.pdf
+2024-09-08 22:27:38,759 - system_logger - INFO - File added: Fundserv Guide.pdf
+2024-09-08 22:27:38,761 - system_logger - INFO - File modified: Fundserv Guide.pdf
+2024-09-08 22:27:38,763 - system_logger - INFO - File added: dCCM Manual.pdf
+2024-09-08 22:27:38,766 - system_logger - INFO - File modified: dCCM Manual.pdf
+2024-09-08 22:27:38,787 - system_logger - INFO - File added: Labour Sponsored Funds.pdf
+2024-09-08 22:27:38,789 - system_logger - INFO - File modified: Labour Sponsored Funds.pdf
+2024-09-08 22:27:38,791 - system_logger - INFO - File added: RDSP Guide.pdf
+2024-09-08 22:27:38,793 - system_logger - INFO - File modified: RDSP Guide.pdf
+2024-09-08 22:27:38,797 - system_logger - INFO - File added: Investment Product User Guide 21.6.pdf
+2024-09-08 22:27:38,809 - system_logger - INFO - File modified: Investment Product User Guide 21.6.pdf
+2024-09-08 22:27:38,820 - system_logger - INFO - File added: Order Management User Guide 24.3.pdf
+2024-09-08 22:27:38,822 - system_logger - INFO - File modified: Order Management User Guide 24.3.pdf
+2024-09-08 22:27:38,829 - system_logger - INFO - File added: Fees Guide.pdf
+2024-09-08 22:27:38,831 - system_logger - INFO - File modified: Fees Guide.pdf
+2024-09-08 22:27:38,839 - system_logger - INFO - File added: RESP Guide.pdf
+2024-09-08 22:27:38,842 - system_logger - INFO - File modified: RESP Guide.pdf
+2024-09-08 22:27:38,855 - system_logger - INFO - File added: Environment Management User Guide.pdf
+2024-09-08 22:27:38,857 - system_logger - INFO - File modified: Environment Management User Guide.pdf
+2024-09-08 22:27:38,865 - system_logger - INFO - File added: Senior Systems Operations Guide.pdf
+2024-09-08 22:27:38,868 - system_logger - INFO - File modified: Senior Systems Operations Guide.pdf
+2024-09-08 22:27:38,869 - system_logger - INFO - File added: User Reference Guide.pdf
+2024-09-08 22:27:38,876 - system_logger - INFO - File modified: User Reference Guide.pdf
+2024-09-08 22:27:38,888 - system_logger - INFO - File added: Guide to Year End and Tax Reporting.pdf
+2024-09-08 22:27:38,891 - system_logger - INFO - File modified: Guide to Year End and Tax Reporting.pdf
+2024-09-08 22:27:38,892 - system_logger - INFO - File added: Client Management User Guide 24.3.pdf
+2024-09-08 22:27:38,894 - system_logger - INFO - File modified: Client Management User Guide 24.3.pdf
+2024-09-08 22:27:38,898 - system_logger - INFO - File added: Segregated Funds Guide.pdf
+2024-09-08 22:27:38,910 - system_logger - INFO - File modified: Segregated Funds Guide.pdf
+2024-09-08 22:27:38,913 - system_logger - INFO - File modified: Segregated Funds Guide.pdf
+2024-09-08 22:27:38,925 - system_logger - INFO - File added: Unitrax Help 24.4.pdf
+2024-09-08 22:27:38,926 - system_logger - INFO - File modified: Unitrax Help 24.4.pdf
+2024-09-08 22:27:38,951 - system_logger - INFO - File modified: CM - FAQ.pdf
+2024-09-08 22:27:38,953 - system_logger - INFO - File modified: IPM Component Matrix.pdf
+2024-09-08 22:27:38,955 - system_logger - INFO - File modified: IPM FAQ.pdf
+2024-09-08 22:27:38,958 - system_logger - INFO - File modified: OM FAQ.pdf
+2024-09-08 22:27:38,960 - system_logger - INFO - File modified: Special Module List Internal.pdf
+2024-09-08 22:27:38,964 - system_logger - INFO - File modified: CM Component Matrix.pdf
+2024-09-08 22:27:38,966 - system_logger - INFO - File modified: Special Module Guide Client Version.pdf
+2024-09-08 22:27:38,968 - system_logger - INFO - File modified: CUSIP Rollovers.pdf
+2024-09-08 22:27:38,970 - system_logger - INFO - File modified: OM Component Matrix.pdf
+2024-09-08 22:27:38,972 - system_logger - INFO - File modified: dCCM Single Sign-On for External Users.pdf
+2024-09-08 22:27:38,973 - system_logger - INFO - File modified: Fund Merger.pdf
+2024-09-08 22:27:38,974 - system_logger - INFO - File modified: dCCM User Manual for External Users (EDG).pdf
+2024-09-08 22:27:38,975 - system_logger - INFO - File modified: Quebec Life Income Funds.pdf
+2024-09-08 22:27:38,975 - system_logger - INFO - File modified: IPM Import User Guide.pdf
+2024-09-08 22:27:38,976 - system_logger - INFO - File modified: Return of Capital.pdf
+2024-09-08 22:27:38,976 - system_logger - INFO - File modified: dCCM Admin Guide for Maintaining External User IDs - Internal v1.3.pdf
+2024-09-08 22:27:38,976 - system_logger - INFO - File modified: dCCM Admin Guide for Maintaining External User IDs - MLN.pdf
+2024-09-08 22:27:38,977 - system_logger - INFO - File modified: SSO Unitrax Help.pdf
+2024-09-08 22:27:38,978 - system_logger - INFO - File modified: Bulk Data Load Guide.pdf
+2024-09-08 22:27:38,978 - system_logger - INFO - File modified: Statements and Confirmations.pdf
+2024-09-08 22:27:38,979 - system_logger - INFO - File modified: Statement Confirmation Extract File Catalogue.pdf
+2024-09-08 22:27:38,979 - system_logger - INFO - File modified: Linked Notes Guide.pdf
+2024-09-08 22:27:38,980 - system_logger - INFO - File modified: Statement Confirmation Extract File Catalogue - Internal.pdf
+2024-09-08 22:27:38,980 - system_logger - INFO - File modified: dCCM Manual - BMO.pdf
+2024-09-08 22:27:38,981 - system_logger - INFO - File modified: Remote User.pdf
+2024-09-08 22:27:38,982 - system_logger - INFO - File modified: FATCA Guide.pdf
+2024-09-08 22:27:38,982 - system_logger - INFO - File modified: Asset Allocation.pdf
+2024-09-08 22:27:38,983 - system_logger - INFO - File modified: Fundserv Guide.pdf
+2024-09-08 22:27:38,983 - system_logger - INFO - File modified: dCCM Manual.pdf
+2024-09-08 22:27:38,983 - system_logger - INFO - File modified: Labour Sponsored Funds.pdf
+2024-09-08 22:27:38,984 - system_logger - INFO - File modified: RDSP Guide.pdf
+2024-09-08 22:27:38,984 - system_logger - INFO - File modified: Investment Product User Guide 21.6.pdf
+2024-09-08 22:27:38,985 - system_logger - INFO - File modified: Order Management User Guide 24.3.pdf
+2024-09-08 22:27:38,985 - system_logger - INFO - File modified: Fees Guide.pdf
+2024-09-08 22:27:38,986 - system_logger - INFO - File modified: RESP Guide.pdf
+2024-09-08 22:27:38,986 - system_logger - INFO - File modified: Environment Management User Guide.pdf
+2024-09-08 22:27:38,987 - system_logger - INFO - File modified: Senior Systems Operations Guide.pdf
+2024-09-08 22:27:38,987 - system_logger - INFO - File modified: User Reference Guide.pdf
+2024-09-08 22:27:38,987 - system_logger - INFO - File modified: Guide to Year End and Tax Reporting.pdf
+2024-09-08 22:27:38,988 - system_logger - INFO - File modified: Client Management User Guide 24.3.pdf
+2024-09-08 22:27:38,988 - system_logger - INFO - File modified: Segregated Funds Guide.pdf
+2024-09-08 22:27:38,989 - system_logger - INFO - File modified: Unitrax Help 24.4.pdf
+2024-09-08 22:27:39,352 - system_logger - INFO - File modified: Return of Capital.pdf
+2024-09-08 22:27:39,356 - system_logger - INFO - File modified: Special Module Guide Client Version.pdf
+2024-09-08 22:27:39,358 - system_logger - INFO - File modified: dCCM Admin Guide for Maintaining External User IDs - MLN.pdf
+2024-09-08 22:27:39,361 - system_logger - INFO - File modified: OM FAQ.pdf
+2024-09-08 22:27:39,364 - system_logger - INFO - File modified: Statements and Confirmations.pdf
+2024-09-08 22:27:39,370 - system_logger - INFO - File modified: Remote User.pdf
+2024-09-08 22:27:39,372 - system_logger - INFO - File modified: Fund Merger.pdf
+2024-09-08 22:27:39,375 - system_logger - INFO - File modified: Statement Confirmation Extract File Catalogue - Internal.pdf
+2024-09-08 22:27:39,380 - system_logger - INFO - File modified: dCCM Manual.pdf
+2024-09-08 22:27:39,383 - system_logger - INFO - File modified: Investment Product User Guide 21.6.pdf
+2024-09-08 22:27:39,392 - system_logger - INFO - File modified: dCCM Single Sign-On for External Users.pdf
+2024-09-08 22:27:39,395 - system_logger - INFO - File modified: Statement Confirmation Extract File Catalogue.pdf
+2024-09-08 22:27:39,400 - system_logger - INFO - File modified: RESP Guide.pdf
+2024-09-08 22:27:39,411 - system_logger - INFO - File modified: Labour Sponsored Funds.pdf
+2024-09-08 22:27:39,424 - system_logger - INFO - File modified: dCCM Manual - BMO.pdf
+2024-09-08 22:27:39,427 - system_logger - INFO - File modified: RDSP Guide.pdf
+2024-09-08 22:27:39,529 - system_logger - INFO - File modified: Order Management User Guide 24.3.pdf
+2024-09-08 22:27:39,533 - system_logger - INFO - File modified: dCCM Admin Guide for Maintaining External User IDs - Internal v1.3.pdf
+2024-09-08 22:27:39,537 - system_logger - INFO - File modified: Environment Management User Guide.pdf
+2024-09-08 22:27:39,540 - system_logger - INFO - File modified: OM Component Matrix.pdf
+2024-09-08 22:27:39,548 - system_logger - INFO - File modified: dCCM User Manual for External Users (EDG).pdf
+2024-09-08 22:27:39,551 - system_logger - INFO - File modified: Linked Notes Guide.pdf
+2024-09-08 22:27:39,555 - system_logger - INFO - File modified: IPM Import User Guide.pdf
+2024-09-08 22:27:39,559 - system_logger - INFO - File modified: Fees Guide.pdf
+2024-09-08 22:27:39,561 - system_logger - INFO - File modified: CM Component Matrix.pdf
+2024-09-08 22:27:39,570 - system_logger - INFO - File modified: CUSIP Rollovers.pdf
+2024-09-08 22:27:39,580 - system_logger - INFO - File modified: IPM Component Matrix.pdf
+2024-09-08 22:27:39,590 - system_logger - INFO - File modified: SSO Unitrax Help.pdf
+2024-09-08 22:27:39,593 - system_logger - INFO - File modified: FATCA Guide.pdf
+2024-09-08 22:27:39,601 - system_logger - INFO - File modified: Asset Allocation.pdf
+2024-09-08 22:27:39,605 - system_logger - INFO - File modified: Bulk Data Load Guide.pdf
+2024-09-08 22:27:39,616 - system_logger - INFO - File modified: Quebec Life Income Funds.pdf
+2024-09-08 22:27:39,639 - system_logger - INFO - File modified: Fundserv Guide.pdf
+2024-09-08 22:27:39,641 - system_logger - INFO - File modified: CM - FAQ.pdf
+2024-09-08 22:27:39,644 - system_logger - INFO - File modified: IPM FAQ.pdf
+2024-09-08 22:27:39,646 - system_logger - INFO - File modified: Special Module List Internal.pdf
+2024-09-08 22:27:39,648 - system_logger - INFO - File modified: Guide to Year End and Tax Reporting.pdf
+2024-09-08 22:27:39,650 - system_logger - INFO - File modified: User Reference Guide.pdf
+2024-09-08 22:27:39,658 - system_logger - INFO - File modified: Segregated Funds Guide.pdf
+2024-09-08 22:27:39,669 - system_logger - INFO - File modified: Senior Systems Operations Guide.pdf
+2024-09-08 22:27:39,671 - system_logger - INFO - File modified: Client Management User Guide 24.3.pdf
+2024-09-08 22:27:39,673 - system_logger - INFO - File modified: Unitrax Help 24.4.pdf
+2024-09-08 22:27:42,710 - system_logger - INFO - File modified: Special Module Guide Client Version.pdf
+2024-09-08 22:27:53,341 - system_logger - INFO - File modified: Remote User.pdf
+2024-09-08 22:27:53,343 - system_logger - INFO - File modified: CUSIP Rollovers.pdf
+2024-09-08 22:27:53,344 - system_logger - INFO - File modified: Bulk Data Load Guide.pdf
+2024-09-08 22:27:53,345 - system_logger - INFO - File modified: dCCM User Manual for External Users (EDG).pdf
+2024-09-08 22:27:53,366 - system_logger - INFO - File modified: CM - FAQ.pdf
+2024-09-08 22:27:53,367 - system_logger - INFO - File modified: Fundserv Guide.pdf
+2024-09-08 22:27:53,368 - system_logger - INFO - File modified: dCCM Manual.pdf
+2024-09-08 22:27:53,375 - system_logger - INFO - File modified: FATCA Guide.pdf
+2024-09-08 22:27:53,376 - system_logger - INFO - File modified: dCCM Admin Guide for Maintaining External User IDs - Internal v1.3.pdf
+2024-09-08 22:27:53,387 - system_logger - INFO - File modified: CM Component Matrix.pdf
+2024-09-08 22:27:53,388 - system_logger - INFO - File modified: IPM Component Matrix.pdf
+2024-09-08 22:27:53,388 - system_logger - INFO - File modified: IPM FAQ.pdf
+2024-09-08 22:27:53,389 - system_logger - INFO - File modified: Return of Capital.pdf
+2024-09-08 22:27:53,397 - system_logger - INFO - File modified: Statement Confirmation Extract File Catalogue.pdf
+2024-09-08 22:27:53,409 - system_logger - INFO - File modified: dCCM Admin Guide for Maintaining External User IDs - MLN.pdf
+2024-09-08 22:27:53,409 - system_logger - INFO - File modified: RDSP Guide.pdf
+2024-09-08 22:27:53,410 - system_logger - INFO - File modified: Order Management User Guide 24.3.pdf
+2024-09-08 22:27:53,410 - system_logger - INFO - File modified: Quebec Life Income Funds.pdf
+2024-09-08 22:27:53,411 - system_logger - INFO - File modified: Investment Product User Guide 21.6.pdf
+2024-09-08 22:27:53,417 - system_logger - INFO - File modified: Statement Confirmation Extract File Catalogue - Internal.pdf
+2024-09-08 22:27:53,418 - system_logger - INFO - File modified: Linked Notes Guide.pdf
+2024-09-08 22:27:53,419 - system_logger - INFO - File modified: Special Module List Internal.pdf
+2024-09-08 22:27:53,419 - system_logger - INFO - File modified: Fund Merger.pdf
+2024-09-08 22:27:53,420 - system_logger - INFO - File modified: SSO Unitrax Help.pdf
+2024-09-08 22:27:53,420 - system_logger - INFO - File modified: dCCM Single Sign-On for External Users.pdf
+2024-09-08 22:27:53,421 - system_logger - INFO - File modified: OM FAQ.pdf
+2024-09-08 22:27:53,421 - system_logger - INFO - File modified: Statements and Confirmations.pdf
+2024-09-08 22:27:53,427 - system_logger - INFO - File modified: OM Component Matrix.pdf
+2024-09-08 22:27:53,428 - system_logger - INFO - File modified: Labour Sponsored Funds.pdf
+2024-09-08 22:27:53,429 - system_logger - INFO - File modified: IPM Import User Guide.pdf
+2024-09-08 22:27:53,430 - system_logger - INFO - File modified: dCCM Manual - BMO.pdf
+2024-09-08 22:27:53,432 - system_logger - INFO - File modified: Asset Allocation.pdf
+2024-09-08 22:27:57,726 - system_logger - INFO - File modified: Fees Guide.pdf
+2024-09-08 22:27:57,730 - system_logger - INFO - File modified: Unitrax Help 24.4.pdf
+2024-09-08 22:27:57,732 - system_logger - INFO - File modified: Senior Systems Operations Guide.pdf
+2024-09-08 22:27:57,737 - system_logger - INFO - File modified: RESP Guide.pdf
+2024-09-08 22:27:57,740 - system_logger - INFO - File modified: Segregated Funds Guide.pdf
+2024-09-08 22:27:57,750 - system_logger - INFO - File modified: Guide to Year End and Tax Reporting.pdf
+2024-09-08 22:27:57,752 - system_logger - INFO - File modified: Environment Management User Guide.pdf
+2024-09-08 22:27:57,755 - system_logger - INFO - File modified: Client Management User Guide 24.3.pdf
+2024-09-08 22:27:57,763 - system_logger - INFO - File modified: User Reference Guide.pdf
+2024-09-08 22:31:17,139 - system_logger - INFO - Database viewer UI started
+2024-09-08 22:31:19,402 - system_logger - INFO - Database viewer UI started
+2024-09-08 22:31:24,686 - system_logger - INFO - Database viewer UI started
+2024-09-08 22:31:29,985 - system_logger - INFO - Database viewer UI started
