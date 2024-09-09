@@ -288,3 +288,20 @@
 2024-09-08 22:03:41,379 - system_logger - INFO - Added missing file to database: Travel Plan.docx
 2024-09-08 22:04:00,243 - system_logger - INFO - Database viewer UI started
 2024-09-08 22:04:00,414 - system_logger - INFO - Database viewer UI started
+2024-09-08 22:12:09,861 - system_logger - INFO - File deleted: iPad Pro and Magic Keyboard.pdf
+2024-09-08 22:12:09,863 - system_logger - INFO - File deleted: 2024-07-08 Discussion with Tina.pptx
+2024-09-08 22:12:09,873 - system_logger - INFO - File deleted: 2024-08-29 Updated Test Results.docx
+2024-09-08 22:12:09,884 - system_logger - INFO - File deleted: Code Llama- Open Foundation Models for Code.pdf
+2024-09-08 22:12:09,896 - system_logger - INFO - File deleted: Designing an open-source LLM interface and social platforms for collectively driven LLM evaluation and auditing.pdf
+2024-09-08 22:12:09,908 - system_logger - INFO - File deleted: Few-shot prompting example.pdf
+2024-09-08 22:12:09,910 - system_logger - INFO - File deleted: Itinerary.pdf
+2024-09-08 22:12:09,931 - system_logger - INFO - File deleted: Moving away from zero-shot prompting.docx
+2024-09-08 22:12:09,943 - system_logger - INFO - File deleted: Test results for retrieval augmented generation prototype.docx
+2024-09-08 22:12:09,956 - system_logger - INFO - File deleted: Travel Plan.docx
+2024-09-08 22:12:09,958 - system_logger - INFO - File deleted: Trillium Health Partners - Natasha's Cast.pdf
+2024-09-08 22:12:09,966 - system_logger - INFO - File deleted: User Requirements v1.0.docx
+2024-09-08 22:12:09,977 - system_logger - INFO - File deleted: User Requirements v1.5.docx
+2024-09-08 22:12:09,989 - system_logger - INFO - File deleted: User Requirements v2.docx
+2024-09-08 22:12:24,884 - system_logger - INFO - Database viewer UI stopped
+2024-09-08 22:12:24,958 - system_logger - INFO - Database viewer UI stopped
+2024-09-08 22:12:30,088 - system_logger - INFO - Folder monitoring stopped
