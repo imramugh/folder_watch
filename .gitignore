@@ -1,6 +1,7 @@
 database/
 documents/
 logs/
+logs/system.log
 utils/config.py 
 utils/__pycache__/
 .DS_Store
